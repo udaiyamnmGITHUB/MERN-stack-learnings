@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://udaiyamnm:udaiyamnm123admin@cluster0.k6raea9.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://udaiyamnm:udaiyamnm123admin@cluster0.k6raea9.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
