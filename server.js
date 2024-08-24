@@ -17,7 +17,7 @@ app.use('/api/auth', require('./routes/api/auth'));
 app.use('/api/profile', require('./routes/api/profiles'));
 app.use('/api/post', require('./routes/api/post'));
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5001;
 
 app.get('/', (req, res)=> res.send('API is running from server hosted by Mr Udai '));
 
